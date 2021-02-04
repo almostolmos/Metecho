@@ -72,7 +72,8 @@
       "quantity": 1
     },
     "worker-short": {
-      "quantity": 1
+      "quantity": 1,
+      "size": "hobby"
     }
   },
   "stack": "heroku-18",
