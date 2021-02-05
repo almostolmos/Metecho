@@ -66,10 +66,12 @@
   },
   "formation": {
     "web": {
-      "quantity": 1
+      "quantity": 1,
+      "size": "hobby"
     },
     "worker": {
-      "quantity": 1
+      "quantity": 1,
+      "size": "hobby"
     },
     "worker-short": {
       "quantity": 1,
